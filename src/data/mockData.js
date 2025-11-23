@@ -1,0 +1,2 @@
+export const summary=[{id:1,title:"Filings Pending",value:3},{id:2,title:"Awaiting Approval",value:4},{id:3,title:"Total Shipments",value:12}];
+export const filings=[{id:"F-1001",customer:"Acme Exports",status:"Pending",createdAt:"2025-11-15",description:"Electronics shipment – 5 boxes"},{id:"F-1002",customer:"Ocean Imports",status:"Approved",createdAt:"2025-11-14",description:"Textile shipment – 20 cartons"},{id:"F-1003",customer:"Seaside Traders",status:"Action Required",createdAt:"2025-11-13",description:"Automotive parts – documentation missing"}];
